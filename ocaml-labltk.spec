@@ -4,7 +4,7 @@
 Summary:	Tk interface for OCaml
 Name:		ocaml-%{modname}
 Version:	8.06.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Other
 Url:		https://forge.ocamlcore.org/projects/lablgl/
