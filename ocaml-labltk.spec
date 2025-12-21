@@ -9,6 +9,11 @@ License:	BSD
 Group:		Development/Other
 Url:		https://forge.ocamlcore.org/projects/lablgl/
 Source0:	https://forge.ocamlcore.org/frs/download.php/1764/labltk-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	camlp4
 BuildRequires:	ocaml
 BuildRequires:	tcl-devel
